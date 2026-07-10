@@ -60,7 +60,7 @@ def test_get_nth_fibonacci_one():
 
 def test_get_nth_fibonacci_ten():
     """Test with n=10."""
-    # Arrange
+    # aArrange
     n = 10
 
     # Act
